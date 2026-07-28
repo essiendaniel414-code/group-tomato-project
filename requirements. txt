@@ -4,3 +4,4 @@ numpy
 Pillow
 # trigger rebuild
 requests
+Data/requirements.txt
